@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.7064672, -35.0247568]
+      },
+      "properties": {
+        "name": "Heathfield Wastewater Treatment Plant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.7998355, -35.0185047]
+      },
+      "properties": {
+        "name": "Hahndorf Wastewater Treatment Plant"
+      }
+    }
+  ]
+}
